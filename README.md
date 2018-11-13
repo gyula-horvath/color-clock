@@ -1,3 +1,12 @@
 # color-clock
 
-A project I did in CodeBerry Programming School.
+A real-time online clock.
+
+# Built with
+
+- HTML
+- JavaScript
+
+# Live version
+
+http://gyula-horvath.github.io/color-clock
